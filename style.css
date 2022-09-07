@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(85, 82, 82);
+}
+h1{
+    text-align: center;
+    margin: auto;
+    color: antiquewhite;
+}
+
+.container{
+    text-align: center;
+    margin: 30px;
+    padding-top: 30px;
+    border: 2px solid;
+    background-color: antiquewhite;
+    border-radius: 15px;
+}
+.button {
+    background-color: darkslategrey;
+    color: #fff;
+    border: 2px solid darkslategrey;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 15px;
+
+}
+.button:hover {
+    background-color: rgb(0, 29, 29);
+    color: #fff;
+}
+img {
+    height: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+}
+#name {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+    vertical-align: middle
+}
